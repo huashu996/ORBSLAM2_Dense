@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cxl/workspace/ORBSLAM2_Dense/Examples/ROS/ORB_SLAM2/build/devel/setup.sh
